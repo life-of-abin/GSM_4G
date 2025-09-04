@@ -1,0 +1,12 @@
+.DS_Store
+*.launch
+STM32CubeIDE/.settings
+STM32CubeIDE/LoRaWAN_End_Node.launch
+STM32CubeIDE/Debug/*
+STM32CubeIDE/Release/*
+!STM32CubeIDE/Debug/*.bin
+!STM32CubeIDE/Debug/*.hex
+!STM32CubeIDE/Debug/*.elf
+!STM32CubeIDE/Release/*.bin
+!STM32CubeIDE/Release/*.hex
+!STM32CubeIDE/Release/*.elf
