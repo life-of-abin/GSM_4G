@@ -1,0 +1,23 @@
+Initialize repo (if not already done)
+
+git init
+
+
+Add all project files
+
+git add .
+
+
+Make your first commit
+
+git commit -m "Initial commit"
+
+
+Create main branch
+
+git branch -M main
+
+
+Push to GitHub
+
+git push -u origin main
